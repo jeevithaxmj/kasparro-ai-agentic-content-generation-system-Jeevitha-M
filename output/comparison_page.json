@@ -1,0 +1,17 @@
+{
+  "page_type": "COMPARISON",
+  "product_a": {
+    "name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "key_ingredients": ["Vitamin C", "Hyaluronic Acid"],
+    "benefits": ["Brightening", "Fades dark spots"],
+    "price": 699
+  },
+  "product_b": {
+    "name": "RadiantSkin Vitamin C Serum",
+    "concentration": "8%",
+    "key_ingredients": ["Vitamin C", "Niacinamide"],
+    "benefits": ["Brightening", "Even skin tone"],
+    "price": 599
+  }
+}
